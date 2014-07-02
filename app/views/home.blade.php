@@ -25,7 +25,6 @@ Descriptionde de la page Home
       <p>Changement de l'application sous un framwork laravel</p>
 
 
-      <h3>Non-responsive grid system</h3>
       <div class="row">
         <div class="col-xs-4">One third</div>
         <div class="col-xs-4">One third</div>
