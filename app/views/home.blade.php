@@ -22,7 +22,7 @@ Descriptionde de la page Home
       </div>
 
       <h3>What changes</h3>
-      <p>Note the lack of aspect of sites in mobile devices. In addition, we reset our container's width and are basically good to go.</p>
+      <p>Changement de l'application sous un framwork laravel</p>
 
 
       <h3>Non-responsive grid system</h3>
