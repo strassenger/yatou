@@ -22,7 +22,7 @@ Descriptionde de la page Home
       </div>
 
       <h3>What changes</h3>
-      <p>Changement de l'application sous un framwork laravel</p>
+      <p>Changement de l'application sous un framework laravel</p>
 
 
       <h3>Non-responsive grid system</h3>
