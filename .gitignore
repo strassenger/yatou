@@ -2,6 +2,7 @@
 /vendor
 composer.phar
 composer.lock
+tempo.txt
 .env.*.php
 .env.php
 .DS_Store
