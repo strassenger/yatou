@@ -8,3 +8,5 @@ composer.lock
 Thumbs.db
 *.zip
 *.gz
+log/*.log
+log/*.log.[0-9]
